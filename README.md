@@ -1,6 +1,8 @@
 ### Yoo, I'm 🍉li 👋
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到🍉小李同学的主页&center=true&size=27"> </a> </h1>
 
+- 🏠
+-    education：
 - 🫡 Master； Major: Data Science and Analytics
 - ⚡ Python/R/SQL.
 - 🏊‍♀️ Cycling/Swimming/traving
