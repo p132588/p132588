@@ -22,6 +22,7 @@
 </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p132588&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 
+![image](https://github.com/p132588/-/blob/main/%E7%BB%93%E6%9D%9F%E5%9B%BE.png) 
 
 
 
